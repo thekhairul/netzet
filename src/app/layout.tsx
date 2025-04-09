@@ -44,7 +44,7 @@ export default function RootLayout({
           content='Turn Social Media Into a Profitable Career'
         />
         <meta property='og:image' content='/og-img.png' />
-        <meta property='og:url' content='https://yourwebsite.com' />
+        <meta property='og:url' content='https://netzet.vercel.app' />
         <meta name='twitter:card' content='summary_large_image' />
         <meta name='twitter:title' content='Netzet | Fametonic' />
         <meta
