@@ -2,6 +2,7 @@ import Header from '@/components/Header';
 import SaleBanner from '@/components/SaleBanner';
 import type { Metadata } from 'next';
 import { Figtree, Urbanist } from 'next/font/google';
+import React from 'react';
 import './globals.css';
 
 const sale = {

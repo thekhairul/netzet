@@ -1,4 +1,5 @@
 import type { ComponentProps } from 'react';
+import React from 'react';
 
 const AngleRight: React.FC<ComponentProps<'svg'>> = (props) => {
   return (

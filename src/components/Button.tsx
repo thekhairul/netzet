@@ -1,6 +1,6 @@
 import { cn } from '@/utils/cn';
 import { cva } from 'class-variance-authority';
-import { PropsWithChildren } from 'react';
+import React, { PropsWithChildren } from 'react';
 
 interface ButtonProps {
   subLabel?: string;

@@ -1,3 +1,5 @@
+import React from 'react';
+
 interface SaleBannerProps {
   tagline: string;
   message: string;
